@@ -1,6 +1,14 @@
 # Core Qiskit packages
 qiskit>=1.0.0
 
+# Advanced Qiskit libraries
+qiskit-algorithms>=0.3.0
+qiskit-machine-learning>=0.7.0
+qiskit-optimization>=0.6.0
+
+# IBM Quantum Runtime (optional - for real hardware)
+# qiskit-ibm-runtime>=0.15.0  # Uncomment to enable hardware access
+
 # Visualization and plotting
 matplotlib>=3.5.0
 pylatexenc>=2.10
@@ -14,10 +22,8 @@ ipywidgets>=7.6.0
 numpy>=1.17.0
 scipy>=1.5.0
 
-# Optional: Additional quantum libraries (install when system supports)
-# qiskit-aer>=0.12.0  # High-performance simulators (requires BLAS/LAPACK)
-# qiskit-algorithms>=0.2.0  # Quantum algorithms library
-# qiskit-machine-learning>=0.6.0  # Quantum ML algorithms
+# Machine learning
+scikit-learn>=1.2.0
 
 # Development tools
 pytest>=6.0.0
