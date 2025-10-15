@@ -1,0 +1,26 @@
+# Core Qiskit packages
+qiskit>=1.0.0
+
+# Visualization and plotting
+matplotlib>=3.5.0
+pylatexenc>=2.10
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipywidgets>=7.6.0
+
+# Scientific computing
+numpy>=1.17.0
+scipy>=1.5.0
+
+# Optional: Additional quantum libraries (install when system supports)
+# qiskit-aer>=0.12.0  # High-performance simulators (requires BLAS/LAPACK)
+# qiskit-algorithms>=0.2.0  # Quantum algorithms library
+# qiskit-machine-learning>=0.6.0  # Quantum ML algorithms
+
+# Development tools
+pytest>=6.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
