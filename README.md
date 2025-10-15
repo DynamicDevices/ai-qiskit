@@ -47,7 +47,7 @@ This project provides a complete quantum computing development environment with:
 
 ### **Option 1: Interactive Jupyter Tutorial (Recommended)**
 ```bash
-git clone https://github.com/DynamicDevices/ai-quiskit.git
+git clone https://github.com/DynamicDevices/ai-qiskit.git
 cd ai-quiskit
 python3 -m venv qiskit_env
 source qiskit_env/bin/activate

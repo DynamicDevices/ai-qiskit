@@ -294,7 +294,7 @@ The AI-Qiskit project demonstrates the **current state of quantum computing** wh
 
 ---
 
-**Repository**: https://github.com/DynamicDevices/ai-quiskit
+**Repository**: https://github.com/DynamicDevices/ai-qiskit
 **License**: Apache 2.0
 **Quantum Computing Era**: NISQ (Noisy Intermediate-Scale Quantum)
 **Target Applications**: Education, Research, Industry Development
