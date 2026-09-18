@@ -340,7 +340,7 @@ executor = QuantumExecutor(backend=backend)
 
 ## 📄 License
 
-This project is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full terms. Third-party dependencies, including Qiskit, retain their own licences and notices.
+This project is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full terms and [LICENSING.md](LICENSING.md) for the status of earlier revisions and attribution guidance. Third-party dependencies, including Qiskit, retain their own licences and notices.
 
 ## 🙏 Acknowledgments
 
