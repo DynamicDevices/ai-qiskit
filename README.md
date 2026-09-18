@@ -48,7 +48,7 @@ This project provides a complete quantum computing development environment with:
 ### **Option 1: Interactive Jupyter Tutorial (Recommended)**
 ```bash
 git clone https://github.com/DynamicDevices/ai-qiskit.git
-cd ai-quiskit
+cd ai-qiskit
 python3 -m venv qiskit_env
 source qiskit_env/bin/activate
 pip install -r requirements.txt
@@ -84,7 +84,7 @@ python3 examples/quantum_hardware_demo.py
 ## 📁 Project Structure
 
 ```
-ai-quiskit/
+ai-qiskit/
 ├── src/                          # Core quantum computing modules
 │   ├── __init__.py
 │   ├── quantum_circuits.py       # Reusable quantum circuits (Bell, GHZ, QFT, VQE)
@@ -340,7 +340,7 @@ executor = QuantumExecutor(backend=backend)
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This project is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full terms. Third-party dependencies, including Qiskit, retain their own licences and notices.
 
 ## 🙏 Acknowledgments
 

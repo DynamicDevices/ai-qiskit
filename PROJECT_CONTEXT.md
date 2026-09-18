@@ -87,7 +87,7 @@ VQE: ✅ Molecular energy calculation with quantum optimization
 
 ### **Project Structure**
 ```
-ai-quiskit/
+ai-qiskit/
 ├── src/                          # Core quantum computing modules
 │   ├── quantum_circuits.py       # Reusable quantum circuit library
 │   ├── quantum_execution.py      # Circuit execution and analysis framework
