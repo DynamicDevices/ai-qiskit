@@ -1,6 +1,6 @@
 # AI-Qiskit: Quantum Software Development with IBM Qiskit
 
-A comprehensive quantum computing project demonstrating best practices for quantum software development using IBM Qiskit.
+An early LLM-assisted educational project exploring quantum software development with IBM Qiskit.
 
 ## ✨ What's New - Advanced Quantum Computing Environment
 
@@ -340,7 +340,9 @@ executor = QuantumExecutor(backend=backend)
 
 ## 📄 License
 
-This project is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full terms and [LICENSING.md](LICENSING.md) for the status of earlier revisions and attribution guidance. Third-party dependencies, including Qiskit, retain their own licences and notices.
+This repository is distributed under the Apache License, Version 2.0, to the extent that its contributors are entitled to grant those rights. See [LICENSE](LICENSE), [NOTICE](NOTICE) and [LICENSING.md](LICENSING.md).
+
+The repository was assembled with LLM assistance and demonstrates established quantum algorithms using Qiskit. Dynamic Devices does not claim ownership of Qiskit, those underlying algorithms or third-party material. The H2 Hamiltonian data in `examples/vqe_example.py` is adapted from an Apache-2.0-licensed Qiskit tutorial and is identified in the source and notices. This is an independent project and is not endorsed by IBM or Qiskit.
 
 ## 🙏 Acknowledgments
 

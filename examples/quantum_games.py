@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: Apache-2.0
+# Provenance and third-party notices: see LICENSE, NOTICE, and LICENSING.md.
 """
 Quantum Visualization and Interactive Examples
 

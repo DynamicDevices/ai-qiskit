@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Provenance and third-party notices: see LICENSE, NOTICE, and LICENSING.md.
 """
 Variational Quantum Eigensolver (VQE) Example
 
@@ -21,8 +23,10 @@ from quantum_circuits import QuantumCircuitLibrary
 
 def create_h2_hamiltonian():
     """Create H2 molecule Hamiltonian in minimal basis."""
-    # H2 molecule Hamiltonian coefficients (STO-3G basis)
-    # This is a simplified version for demonstration
+    # Adapted from the Apache-2.0-licensed Qiskit algorithms tutorial:
+    # https://github.com/Qiskit/qiskit-tutorials/blob/aefaab4294fab55cff2afaaba846726c5d8174c1/tutorials/algorithms/01_algorithms_introduction.ipynb
+    # Modified here by rounding the H2 coefficients and adding a YY term.
+    # See NOTICE and LICENSING.md for attribution and provenance.
     
     coeffs = [-1.0523732, 0.39793742, -0.39793742, -0.01128010, 
               0.18093119, 0.18093119]

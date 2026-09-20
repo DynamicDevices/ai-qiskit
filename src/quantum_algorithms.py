@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
+# Provenance and third-party notices: see LICENSE, NOTICE, and LICENSING.md.
 """
 Basic Quantum Algorithm Examples
 

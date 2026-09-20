@@ -1,0 +1,20 @@
+ai-qiskit — attribution and provenance notices
+
+This independent project was assembled by Alex Lennon for Dynamic Devices Ltd
+with LLM assistance. It uses the Qiskit SDK and demonstrates established
+quantum algorithms. No ownership of Qiskit or those underlying algorithms is
+claimed.
+
+The H2 Hamiltonian operators and coefficients in examples/vqe_example.py were
+adapted from the Qiskit Tutorials algorithms introduction:
+
+https://github.com/Qiskit/qiskit-tutorials/blob/aefaab4294fab55cff2afaaba846726c5d8174c1/tutorials/algorithms/01_algorithms_introduction.ipynb
+
+That source is licensed under the Apache License, Version 2.0. This project's
+version rounds the coefficients, adds a YY term and uses them in a different
+example implementation.
+
+Qiskit is an open-source project developed by IBM and its contributors. Qiskit,
+IBM and related names and marks remain the property of their respective owners.
+This repository is not an official IBM or Qiskit project and is not endorsed by
+them.
